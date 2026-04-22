@@ -8,7 +8,12 @@ install.packages(c(
   "afex",
   "readxl",
   "lme4",
-  "Hmisc"
+  "Hmisc",
+  "MuMIn",
+  "readr",
+  "lmerTest",
+  "gridExtra",
+  "languageR"
 ))
 
 
@@ -22,3 +27,9 @@ library(afex)
 library(readxl)
 library(lme4)
 library(Hmisc)
+library(MuMIn)
+library(readr)
+library (lme4)
+library(lmerTest)
+library(gridExtra)
+library(languageR) 
